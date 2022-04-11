@@ -6,4 +6,10 @@
  <mereni id="02">
     <teplota>5.2</teplota>
   </mereni>
+  <mereni id="01">
+    <teplota>7.4</teplota>
+  </mereni>
+ <mereni id="02">
+    <teplota>5.2</teplota>
+  </mereni>
 </zaznamy>
